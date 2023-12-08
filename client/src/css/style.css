@@ -80,6 +80,9 @@ h1 {
   margin: 25px;
 }
 
+#buttonInstall {
+  visibility: hidden;}
+
 .btn {
   text-align: center;
   display: inline-block;
